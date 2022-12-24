@@ -1,0 +1,28 @@
+h1{
+    color: white;
+    background-color: #10162F;
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+}
+
+table{
+    position: relative;
+    top: 25px;
+    text-align: center;
+    border: 2px solid #10162F;
+    width: 50%;
+    margin: 0 auto;
+    font-family: 'Source Code Pro';
+    border-collapse: collapse;
+}
+
+thead{
+    font-weight: bold;
+    border: 2px solid black;
+    
+}
+
+td, th, tr{
+    border: 2px solid black;
+}
